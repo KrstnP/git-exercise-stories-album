@@ -1,1 +1,1 @@
-# git-exercise-stories-album
+# what's-your-jam-git-exercise
